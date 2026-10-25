@@ -1,2 +1,1 @@
-age = int(input("Enter your age: "))
-print("Your age is:", age)
+print(not 123>100) #False

@@ -33,3 +33,5 @@ a = 12
 b = 8
 print(a**b)
 
+# Python Follow the BODMAS rule
+print(10 + 20 * 30 / 10)
